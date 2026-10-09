@@ -1,0 +1,61 @@
+body{
+    background-color:#f1cc96;
+}
+header{
+    text-decoration: underline;
+    color:brown;
+    font-weight: bold;
+    font-family: ALGERIAN;
+    font-size: 30px;
+}
+p{
+    text-indent:50px;
+    letter-spacing: 3px;
+    background-color: transparent;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
+footer{
+    background-color: #ebc598;
+    color: #d10d0d;
+}
+.story_details{
+    background-color: #E8D3B8;
+    border:10px solid #A67C52;
+}
+.story_details b{
+    color: #6B3E26;
+    font-size: 28px;
+}
+.title-name{
+    font-size: 25px;
+    color: #4F6D5A;
+}
+.author-name{
+    font-size: 25px;
+    color: #4F6D5A;
+}
+.genre{
+    font-size: 25px;
+    color: #4F6D5A;
+}
+.published{
+    font-size: 25px;
+    color: #4F6D5A;
+}
+.theme{
+    font-size: 25px;
+    color: #4F6D5A;
+}
+.characters{
+    font-size: 25px;
+    color: #4F6D5A;
+}
+img{
+    height: 420px;
+    width: 450px;
+    padding: 20px;
+    border-radius: 30%;
+    border: 15px solid rgb(36, 4, 4);
+    padding: 0%;
+}
